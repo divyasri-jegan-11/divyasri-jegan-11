@@ -2,6 +2,7 @@
 👋 Hi, I’m Divyasri Jegan <br><br>🎓 Aspiring Data Analyst & AI Enthusiast<br> Passionate about turning raw data into meaningful insights using Python, SQL, and visualization tools.<br> Exploring Machine Learning, Data Science, and AI-powered applications through hands-on projects.<br><br>I enjoy working on real-world datasets, building end-to-end analytical solutions, and experimenting with AI-driven systems.
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyasrijegan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/45081923) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devadhivyavv11@gmail.com) 
 
