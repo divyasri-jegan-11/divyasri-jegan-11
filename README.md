@@ -19,91 +19,54 @@ I enjoy solving real business problems by transforming complex datasets into act
 I'm continuously learning new analytical techniques while building projects that simulate real-world business scenarios.
 
 ---
+# 💫 About Me
 
-## 🎯 What I Bring
-
-✔️ End-to-End Data Analysis
-
-✔️ SQL Querying & Data Extraction
-
-✔️ Data Cleaning & Transformation
-
-✔️ Exploratory Data Analysis (EDA)
-
-✔️ Interactive Power BI Dashboards
-
-✔️ Business KPI Reporting
-
-✔️ Data Storytelling
-
-✔️ Business Insight Generation
-
-✔️ Problem Solving with Data
+(Your introduction)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 What I'm Building
 
-### 📦 Amazon Sales Analysis
-- Built an interactive Power BI dashboard to analyze sales performance.
-- Identified high-performing products, regional trends, and revenue opportunities.
-- Generated business insights to support strategic decision-making.
-
----
-
-### 🚚 Delivery Performance Analysis
-- Analyzed 149K+ delivery records.
-- Identified operational bottlenecks and SLA breaches.
-- Estimated revenue impact from delayed deliveries.
-- Created KPI dashboards to monitor delivery performance.
+- Business Analytics Projects
+- Interactive Power BI Dashboards
+- SQL Case Studies
+- Python Data Analysis Projects
 
 ---
 
-### 📊 Business KPI Dashboard
-- Designed executive dashboards tracking revenue, customer behavior, and operational metrics.
-- Focused on delivering actionable insights rather than static reports.
+## 📈 Analytics Workflow
+
+📥 Collect Data
+
+🧹 Clean & Transform
+
+🔍 Analyze & Explore
+
+📊 Visualize & Communicate
+
+💡 Generate Actionable Insights
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Arsenal
 
-### Programming
-
-- SQL
-- Python
-
-### Data Analytics
-
-- Pandas
-- NumPy
-- Excel
-
-### Visualization
-
-- Power BI
-- Matplotlib
-- Tableau
-
-### Tools
-
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+| Category | Technologies |
+|----------|--------------|
+| Languages | SQL • Python |
+| Analytics | Excel • Pandas • NumPy |
+| Visualization | Power BI • Tableau • Matplotlib |
+| Tools | Git • GitHub • Jupyter Notebook • VS Code |
 
 ---
 
-# 📚 Currently Learning
+## 🎯 Areas of Interest
 
-- Advanced SQL
-- Data Modeling
-- Statistics for Analytics
 - Business Intelligence
+- Data Analytics
+- Product Analytics
+- Customer Analytics
+- Operations Analytics
 - Data Storytelling
-- Dashboard Design Best Practices
-- Machine Learning
-
----
 
 # 🤝 Open To
 
