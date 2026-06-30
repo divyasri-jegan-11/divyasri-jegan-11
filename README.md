@@ -1,21 +1,164 @@
-# 💫 About Me:
- 👋 Hi there, I'm Divyasri Jegan!<br><br>🎯  Data Analyst | SQL • Python • Power BI • Excel<br><br>Self-taught Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel, building end-to-end analytics projects that transform complex data into actionable business insights. I specialize in uncovering trends, optimizing performance, and developing interactive dashboards that enable data-driven decision-making and measurable business impact.
+<h1 align="center">Hi 👋, I'm Divyasri Jegan</h1>
 
+<h3 align="center">
+Self-Taught Data Analyst | SQL • Python • Power BI • Excel
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/Divyasri Jegan)][![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:divyasrijegan11@gmail.com) ]
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=divyasri-jegan-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=divyasri-jegan-11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=divyasri-jegan-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=divyasri-jegan-11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+Turning raw data into meaningful business decisions through analytics, visualization, and storytelling.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=divyasri-jegan-11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+I'm a **self-taught Data Analyst** with hands-on experience building end-to-end analytics projects using **SQL, Python, Power BI, and Excel**.
+
+I enjoy solving real business problems by transforming complex datasets into actionable insights that support better decision-making. My projects focus on analyzing sales performance, delivery operations, customer behavior, and business KPIs to uncover trends, identify opportunities, and create measurable business impact through interactive dashboards and data storytelling.
+
+I'm continuously learning new analytical techniques while building projects that simulate real-world business scenarios.
+
+---
+
+## 🎯 What I Bring
+
+✔️ End-to-End Data Analysis
+
+✔️ SQL Querying & Data Extraction
+
+✔️ Data Cleaning & Transformation
+
+✔️ Exploratory Data Analysis (EDA)
+
+✔️ Interactive Power BI Dashboards
+
+✔️ Business KPI Reporting
+
+✔️ Data Storytelling
+
+✔️ Business Insight Generation
+
+✔️ Problem Solving with Data
+
+---
+
+# 🚀 Featured Projects
+
+### 📦 Amazon Sales Analysis
+- Built an interactive Power BI dashboard to analyze sales performance.
+- Identified high-performing products, regional trends, and revenue opportunities.
+- Generated business insights to support strategic decision-making.
+
+---
+
+### 🚚 Delivery Performance Analysis
+- Analyzed 149K+ delivery records.
+- Identified operational bottlenecks and SLA breaches.
+- Estimated revenue impact from delayed deliveries.
+- Created KPI dashboards to monitor delivery performance.
+
+---
+
+### 📊 Business KPI Dashboard
+- Designed executive dashboards tracking revenue, customer behavior, and operational metrics.
+- Focused on delivering actionable insights rather than static reports.
+
+---
+
+# 💻 Tech Stack
+
+### Programming
+
+- SQL
+- Python
+
+### Data Analytics
+
+- Pandas
+- NumPy
+- Excel
+
+### Visualization
+
+- Power BI
+- Matplotlib
+
+### Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- Data Modeling
+- Statistics for Analytics
+- Business Intelligence
+- Data Storytelling
+- Dashboard Design Best Practices
+
+---
+
+# 🤝 Open To
+
+- Data Analyst Opportunities
+- Business Analyst Roles
+- Business Intelligence Roles
+- Analytics Projects
+- Open Source Collaboration
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+LinkedIn
+</a>
+
+•
+
+<a href="mailto:divyasrijegan11@gmail.com">
+Email
+</a>
+
+•
+
+<a href="https://github.com/YOUR_USERNAME">
+GitHub
+</a>
+
+</p>
+
+---
+
+## 💡 Personal Motto
+
+> **"Great decisions start with great data, but meaningful impact comes from asking the right questions."**
+
+---
