@@ -136,11 +136,11 @@ I'm continuously learning new analytical techniques while building projects that
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
 LinkedIn
 </a>
-
+-
 <a href="mailto:divyasrijegan11@gmail.com">
 Email
 </a>
-
+-
 
 <a href="https://github.com/YOUR_USERNAME">
 GitHub
