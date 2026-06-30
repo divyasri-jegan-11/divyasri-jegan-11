@@ -82,6 +82,7 @@ I'm continuously learning new analytical techniques while building projects that
 
 - Power BI
 - Matplotlib
+- Tableau
 
 ### Tools
 
@@ -100,6 +101,7 @@ I'm continuously learning new analytical techniques while building projects that
 - Business Intelligence
 - Data Storytelling
 - Dashboard Design Best Practices
+- Machine Learning
 
 ---
 
@@ -127,12 +129,6 @@ I'm continuously learning new analytical techniques while building projects that
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15)
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -141,13 +137,10 @@ I'm continuously learning new analytical techniques while building projects that
 LinkedIn
 </a>
 
-•
-
 <a href="mailto:divyasrijegan11@gmail.com">
 Email
 </a>
 
-•
 
 <a href="https://github.com/YOUR_USERNAME">
 GitHub
