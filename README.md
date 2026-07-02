@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyasri Jegan</h1>
 
 <h3 align="center">
-Self-Taught Data Analyst | SQL • Python • Power BI • Excel
+Data Analyst | SQL • Python • Power BI • Excel
 </h3>
 
 <p align="center">
@@ -39,9 +39,10 @@ By combining SQL, Python, Power BI, and Excel, I transform raw data into actiona
 | Category | Technologies |
 |----------|--------------|
 | Languages | SQL • Python |
-| Analytics | Excel • Pandas • NumPy |
-| Visualization | Power BI • Tableau • Matplotlib |
+| Analytics | Excel • Pandas • NumPy • Statistics |
+| Visualization | Power BI • Tableau • Looker Studio • Matplotlib |
 | Tools | Git • GitHub • Jupyter Notebook • VS Code |
+
 
 ---
 
