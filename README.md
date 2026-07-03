@@ -10,7 +10,7 @@ Turning raw data into meaningful business decisions through analytics, visualiza
 
 ---
 
-# 💫 About Me
+#  About Me
 
 I'm a **self-taught Data Analyst** with hands-on experience building end-to-end analytics projects using **SQL, Python, Power BI, and Excel**.
 
@@ -20,7 +20,7 @@ I'm continuously learning new analytical techniques while building projects that
 
 ---
 
-##  My Approach to Analytics
+##  My Approach to Analytics 
 
 I believe analytics should do more than report numbers—it should guide better business decisions. Every project I build is driven by three questions:
 
@@ -62,20 +62,6 @@ By combining SQL, Python, Power BI, and Excel, I transform raw data into actiona
 - Business Intelligence Roles
 - Analytics Projects
 - Open Source Collaboration
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-</p>
 
 ---
 
